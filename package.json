@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "private": true,
   "type": "module",
-  "homepage": "https://reyronald.github.io/SkillDisplay/",
+  "homepage": "https://thatsnotaname.github.io/SkillDisplay/",
   "scripts": {
     "dev": "vite --port 3000 --open",
     "build": "tsc && vite build",
