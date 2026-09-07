@@ -2,7 +2,7 @@
 
 A simple no-frills ACTWebSocket overlay for showing actions pressed in an overlay window.
 
-Check it out online at: https://reyronald.github.io/SkillDisplay
+Check it out online at: https://thatsnotaname.github.io/SkillDisplay
 
 ## Preview
 
